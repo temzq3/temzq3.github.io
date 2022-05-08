@@ -1,5 +1,6 @@
 body{
     font-family: Arial, sans-serif;
+    color:#323d4f;
 }
 nav { 
     width: 100%;
@@ -105,8 +106,9 @@ font-weight: bolder;
 
 .block1 img{
 margin-bottom: 30px;
-    height: 47px;
-    width: 47px;
+    height: 37px;
+    width: 55px;
+    margin-top: 13px;
 }
 .block2 {
     margin-left: 80px;
@@ -167,4 +169,122 @@ margin-bottom: 30px;
 .price h2{
 font-size: 23px;    
 font-weight: bolder;
+}
+.stats {
+    text-transform:uppercase;
+    text-align: center;
+    background:url(../img/fon2.jpg) no-repeat;
+    height: 499px;
+    text-align: center;
+    font-weight: bolder;
+    
+}
+.stats h2{
+padding-top: 100px;
+    font-weight: bolder;
+    font-size: 23px;   
+    padding-bottom: 30px;
+     
+
+}
+.stats h3{
+font-size: 26px;
+font-weight: bolder;
+padding-top: 30px;
+padding-bottom: 30px;
+    
+    
+}
+
+.block_s1{
+   float:left; 
+    margin-top: 85px;
+    margin-left: 380px;
+
+}
+.block_s2{
+  float:left;  
+ margin-top: 85px;
+    margin-left: 150px;
+}
+.block_s3{
+ float:left;   
+    margin-top: 85px;
+    margin-left: 150px;
+}
+.block_s4{
+  float:left;  
+  margin-top: 85px;
+    margin-left: 150px;
+}
+.feedback{
+ text-align: center;
+}
+.feedback h2{
+    text-transform:uppercase;
+    font-weight: bolder;
+   font-size: 26px; 
+    margin-bottom: 30px;
+}
+.izmen{
+    margin-top: 50px;
+    margin-bottom: 90px;
+}
+.contacts{
+    
+    text-align: center;
+    background:url(../img/fon3.jpg) no-repeat;
+    height: 808px;
+    text-align: center;
+    color: white;
+}
+.contacts h2{
+    font-size: 26px;
+    padding-top: 105px;
+     font-weight: bolder;
+text-transform:uppercase;
+    padding-bottom: 30px;
+}
+.block_c1{
+    float: left;
+    padding-left: 655px;
+}
+.block_c1 img{
+padding-bottom: 17px;
+}
+.block_c2{
+    float: left;
+     padding-left: 105px;
+}
+.block_c2 img{
+padding-bottom: 17px;
+}
+.block_c3{
+    float: left;
+ padding-left: 105px;
+}
+.block_c3 img{
+padding-bottom: 17px;
+}
+.formafb{
+margin-top:150px;
+}
+#IMAGE{
+visibility: collapse;
+}
+.formafb input{
+background: rgba(232,235,236,0.7);
+    color: #5d5d5e;
+}
+.knopka2 input{
+    width: 120px;
+    height: 45px;
+    text-align: center;
+    border: 2px solid white; 
+    background: none;
+    border-radius: 5px;
+    color: white; 
+    font-size: 13px;
+    padding: 0 16px;
+   
 }
