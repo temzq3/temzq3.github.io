@@ -1,0 +1,170 @@
+body{
+    font-family: Arial, sans-serif;
+}
+nav { 
+    width: 100%;
+    height: 60px;
+    background: #344051;
+}
+.logo{
+    color:white;
+    font-size: 28px;
+    line-height: 60px;
+    margin-left:380px;
+    float:left;
+}
+.menu{
+    float:left;
+    margin-left: 600px;
+}
+.menu li{
+    float:left;
+    line-height: 60px;
+    color:white;
+    margin-right: 40px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.main{
+    width: 100%;
+    height: calc(100% - 60px);
+    background: url(../img/boy.png) 100% 100%/auto 75%  no-repeat, url(../img/fonfon.jpg) center/cover no-repeat;
+}
+.title_container{
+    float:left;
+    margin-top:422px;
+    margin-left: 404px;
+    color:#2c384a;
+    text-align: center;
+}
+.title_container h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+.title_container h4 {
+    margin-top: 40px;
+    font-size: 22px;
+    color: #79818d; 
+}
+.title_container input {
+    height: 40px;
+    text-align: center;
+    border: 2px solid #79818d; 
+    background: none;
+    border-radius: 5px;
+    color: #79818d; 
+    font-size: 13px;
+    padding: 0 16px;
+    margin:55px 14px 0 14px;
+   
+}
+.obomne {
+
+    margin-top: 110px;
+    text-align: center;
+   
+}
+.photoclass{
+    margin-bottom: 30px;
+}
+.obomne h2{
+font-size: 23px;    
+padding-bottom: 30px;
+    font-weight: bolder;
+}
+.polosa {
+padding-bottom: 60px;
+}
+.rezume{
+    margin-top: 40px;
+}
+.chto_umey {
+     text-align: center;
+height: 523px;
+margin-top: 100px;
+background: url(../img/phon_cu.jpg) no-repeat; 
+}
+
+.chto_umey h2 {
+font-size: 23px;    
+padding-top: 105px;
+padding-bottom: 30px;
+font-weight: bolder;
+}
+.chto_umey h3{
+font-weight: bolder;
+}
+.block1 {
+    margin-left: 340px;
+    height: 165px;
+    width: 210px;
+    float:left;
+    margin-top: 100px;
+    
+}
+
+.block1 img{
+margin-bottom: 30px;
+    height: 47px;
+    width: 47px;
+}
+.block2 {
+    margin-left: 80px;
+    height: 165px;
+    width: 210px;
+    float:left;
+    margin-top: 100px;
+}
+
+.block2 img{
+margin-bottom: 30px;
+    height: 47px;
+    width: 47px;
+}
+.block3 {
+    margin-left: 80px;
+    height: 165px;
+    width: 210px;
+    float:left;
+    margin-top: 100px;
+}
+.block3 img{
+margin-bottom: 30px;
+    height: 47px;
+    width: 47px;
+}
+.block4{
+    margin-left: 80px;
+    height: 165px;
+    width: 210px;
+     float:left;
+    margin-top: 100px;
+}
+.block4 img{
+margin-bottom: 30px;
+    height: 47px;
+    width: 47px;
+}
+.keys{
+    text-align: center;
+}
+.keys h2{
+    font-size: 23px;    
+padding-top: 105px;
+padding-bottom: 30px;
+font-weight: bolder;
+    text-transform:uppercase;
+}
+.keys2 {
+margin-bottom: 30px;
+}
+.kartinka_k {
+    margin-top: 40px;
+}
+.price{
+    text-align: center;
+}
+.price h2{
+font-size: 23px;    
+font-weight: bolder;
+}
