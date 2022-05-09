@@ -164,13 +164,49 @@ margin-bottom: 30px;
     margin-top: 40px;
 }
 .price{
-    text-align: center;
+
+margin: 200px auto 0 auto;
+width: 890px;
+ font-weight: bolder;  
+    
+}
+
+.price select{
+margin-top: 25px;
+width: 890px;
+height: 55px;
+    background: #eeeeee;
+    color:#a8a5a5;
 }
 .price h2{
 font-size: 23px;    
 font-weight: bolder;
 }
+.price h3{
+    text-transform:uppercase;
+    font-weight: bolder;  
+    margin-top: 55px;
+}
+.stoimost{
+    margin-top: 25px;
+    font-weight: bolder;
+    font-size: 15px;
+width: 890px;
+    margin: 0 auto;
+}
+  table.text  {
+    width:  100%; /* Ширина таблицы */
+    border-spacing: 0; /* Расстояние между ячейками */
+   }
+   table.text td {
+    width: 50%; /* Ширина ячеек */
+    vertical-align: top; /* Выравнивание по верхнему краю */
+   }
+   td.rightcol { /* Правая ячейка */ 
+    text-align: right; /* Выравнивание по правому краю */
+   }
 .stats {
+    margin-top: 155px;
     text-transform:uppercase;
     text-align: center;
     background:url(../img/fon2.jpg) no-repeat;
@@ -287,4 +323,27 @@ background: rgba(232,235,236,0.7);
     font-size: 13px;
     padding: 0 16px;
    
+}
+.botkeys{
+    width: 1168px;
+    margin: 0 auto;
+   
+}
+.botkeys1{
+    width: 287px;
+    float: left
+    }
+.botkeys1 h3{
+    font-size: 19px;
+    font-weight: bolder;
+}
+.botkeys2{
+width: 881px;
+    font-size:17px;
+ 
+    margin-left: 288px;
+}
+.botkeys2 h3{
+font-weight: bolder;
+    font-size: 19px;
 }
